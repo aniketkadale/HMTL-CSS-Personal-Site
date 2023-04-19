@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+a, h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top {
+    position: relative;
+    background-color: #E4f9f5;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile img {
+    height: 150px;
+}
+
+.img {
+    height: 310px;
+}
+
+.middle-container {
+    margin-top: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 90px auto 180px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.app-dev {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.content-writing {
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.btn {
+    color: white;
+    background-color: #11999E;
+    padding: 12px;
+    font-weight: bold;
+    margin: 15px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.contact-me p {
+    margin-bottom: 50px;
+}
+
+.footer-link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #11999E;
+    margin: 0 15px 0 15px;
+}
+
+.bottom-container p {
+    color: white;
+}
